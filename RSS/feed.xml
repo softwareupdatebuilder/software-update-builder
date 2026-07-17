@@ -1,1 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Software Update Builder Releases</title>
+        <link>https://YOUR_USERNAME.github.io/YOUR_REPOSITORY/</link>
+        <description>Latest releases of Software Update Builder.</description>
+        <language>en-us</language>
 
+        <item>
+            <title>Software Update Builder 2.2 Beta 2 (141)</title>
+            <link>https://YOUR_USERNAME.github.io/YOUR_REPOSITORY/Releases/Version%202.2%20Beta%202%20(141).ipa</link>
+            <description>Version 2.2 Beta 2 is now available.</description>
+            <pubDate>Thu, 16 Jul 2026 22:00:00 GMT</pubDate>
+            <guid>2.2-beta2-141</guid>
+        </item>
+
+    </channel>
+</rss>
